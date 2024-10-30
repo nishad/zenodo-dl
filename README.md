@@ -1,5 +1,3 @@
-Here’s a README.md file for your project:
-
 # Zenodo Downloader
 
 `zenodo-dl.py` is a Python script that downloads files from a Zenodo record, verifies the file integrity using MD5 checksum, and organizes downloaded files based on their specified folder structure. It supports resuming interrupted downloads and skips files that already exist and pass the checksum verification.
